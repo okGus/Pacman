@@ -2,7 +2,6 @@
 
 Modified as Vax-Man
 Modified rules:
-Markup : 
   * Vax-Man can kill a ghost if he comes into contact with it (vaccinates it).
   * Contact with a ghost does not kill Vax-Man.
   * Each ghost that has not yet been hit multiplies itself every 30 seconds (the infection grows).
